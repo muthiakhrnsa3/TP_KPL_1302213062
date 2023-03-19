@@ -1,0 +1,15 @@
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\bin\Debug\net6.0\TP_MOD4_1302213062_SE4502.exe
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\bin\Debug\net6.0\TP_MOD4_1302213062_SE4502.deps.json
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\bin\Debug\net6.0\TP_MOD4_1302213062_SE4502.runtimeconfig.json
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\bin\Debug\net6.0\TP_MOD4_1302213062_SE4502.dll
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\bin\Debug\net6.0\TP_MOD4_1302213062_SE4502.pdb
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.csproj.AssemblyReference.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.AssemblyInfoInputs.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.AssemblyInfo.cs
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.csproj.CoreCompileInputs.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.dll
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\refint\TP_MOD4_1302213062_SE4502.dll
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.pdb
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\TP_MOD4_1302213062_SE4502.genruntimeconfig.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\TP_MOD4_1302213062_SE4502\TP_MOD4_1302213062_SE4502\obj\Debug\net6.0\ref\TP_MOD4_1302213062_SE4502.dll
