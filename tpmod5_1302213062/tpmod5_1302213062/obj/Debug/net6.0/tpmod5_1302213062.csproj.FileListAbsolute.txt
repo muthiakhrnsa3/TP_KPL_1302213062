@@ -1,0 +1,15 @@
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\bin\Debug\net6.0\tpmod5_1302213062.exe
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\bin\Debug\net6.0\tpmod5_1302213062.deps.json
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\bin\Debug\net6.0\tpmod5_1302213062.runtimeconfig.json
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\bin\Debug\net6.0\tpmod5_1302213062.dll
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\bin\Debug\net6.0\tpmod5_1302213062.pdb
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.csproj.AssemblyReference.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.AssemblyInfoInputs.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.AssemblyInfo.cs
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.csproj.CoreCompileInputs.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.dll
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\refint\tpmod5_1302213062.dll
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.pdb
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\tpmod5_1302213062.genruntimeconfig.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod5_1302213062\tpmod5_1302213062\obj\Debug\net6.0\ref\tpmod5_1302213062.dll
