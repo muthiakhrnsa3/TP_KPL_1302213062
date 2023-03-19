@@ -1,0 +1,6 @@
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod3_1302213062\tpmod3_1302213062\obj\Debug\tpmod3_1302213062.csproj.AssemblyReference.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod3_1302213062\tpmod3_1302213062\obj\Debug\tpmod3_1302213062.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod3_1302213062\tpmod3_1302213062\obj\Debug\tpmod3_1302213062.Form1.resources
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod3_1302213062\tpmod3_1302213062\obj\Debug\tpmod3_1302213062.Properties.Resources.resources
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod3_1302213062\tpmod3_1302213062\obj\Debug\tpmod3_1302213062.csproj.GenerateResource.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmod3_1302213062\tpmod3_1302213062\obj\Debug\tpmod3_1302213062.csproj.CoreCompileInputs.cache
